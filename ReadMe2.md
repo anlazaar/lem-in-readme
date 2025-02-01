@@ -1,5 +1,3 @@
-Let's simulate this complex map with full code execution details. I'll break it down into phases with variable snapshots.
-
 ---
 
 ## **Input Map Parsing**
@@ -265,4 +263,3 @@ AllValidPaths = [
 Path lengths: 6,6,6 → equal distribution optimal
 ```
 
-This simulation shows complete execution flow with all critical variable states and decision points. Each ant's movement is precisely tracked through the result slice construction.
